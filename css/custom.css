@@ -65,7 +65,7 @@ body {
   color: #5C5B5C;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased; 
-  font-size: 18px; 
+  font-size: 24px; 
   font-size: 1.125rem;
   line-height: 1.3334;
 }
@@ -400,7 +400,7 @@ object {
 }
 
 #featured {
-  background-color: #5C5B5C;
+  background-color: #BCC9BD;
   color: #fff;
   position: relative;
 }
