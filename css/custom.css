@@ -352,7 +352,7 @@ object {
 #toggle-nav-label {
   color: rgba(0,0,0,0.5);
   background:blanchedalmond;
-  text-align: center;
+  text-align:center;
   line-height: 30px;
   font-size: 18px;
   display: block;
