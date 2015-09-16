@@ -40,9 +40,9 @@ h1{
 
 /* Secondary Link Styles */
 #menu ul a:nth-of-type(even) {
-  text-shadow: 0 0 6px #fff;
-  background: #333;
-  color: white;
+  text-shadow: 0 0 6px black;
+  background: white;
+  color: black;
 }
 
 /* Hover Slide */
@@ -87,3 +87,5 @@ h1{
       display:block;
       width:640px;
     }
+    
+   
