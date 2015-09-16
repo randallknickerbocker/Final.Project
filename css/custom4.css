@@ -24,11 +24,11 @@
   font-family: 'Electrolize';
   font-style: normal;
   font-weight: 400;
-  src: local('Electrolize'), local('Electrolize-Regular'), url(http://themes.googleusercontent.com/static/fonts/electrolize/v2/DDy9sgU2U7S4xAwH5thnJ4bN6UDyHWBl620a-IRfuBk.woff) format('woff');
+  src: local('Electrolize'), local('Electrolize-Regular'), url("http://www.yelp.com/biz_photos/little-branch-new-york?select=2abUjuW8QPWibafJviJ1UA") format('woff');
 }
 
 body {
-  background: #310404 url("http://www.yelp.com/biz_photos/little-branch-new-york?select=2abUjuW8QPWibafJviJ1UA") repeat top left;
+  background-image: url("http://www.yelp.com/biz_photos/little-branch-new-york?select=2abUjuW8QPWibafJviJ1UA") repeat top left;
   font-family: 'Electrolize';
 }
 
