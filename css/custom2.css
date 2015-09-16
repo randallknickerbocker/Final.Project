@@ -186,7 +186,7 @@ li:nth-of-type(3), .rss {
 #pizza {
   width:600px;
   margin: 0;
-  background-image:url("http://wallpoper.com/images/00/40/55/67/metal-patterns_00405567.jpg");
+  background-image:url("http://media.jitsites.com/files/archive/psBeyond/textures/texturedMetal.jpg");
   box-sizing:border-box;
   padding: 24px 30px 14px 30px;
   border-radius:8px 8px 0 0;
@@ -218,7 +218,7 @@ input, .button {
   margin-right:10px;
   display: block;
   float:left;
-  background-color:pink;
+  background-color:black;
   line-height: 1;
   padding: 6px 20px 6px 20px;
   color: white;
@@ -234,27 +234,15 @@ input, .button {
   position:relative;
 }
 input:hover, .button:hover {
-  background-color: #2E92E2;
+  background-color:#AFBA9D;
 }
 input:active, .button:active {  
   bottom: -2px;
-  box-shadow: 0px 1px 0px #0C3658, 0px 2px 14px rgba(0,0,0,0.6);
+  box-shadow: 0px 1px 0px #AFBA9D, 0px 2px 14px rgba(0,0,0,0.6);
   color: white;
 }
-#hamburger {
-  width:600px;
-  margin:0;
-  box-sizing:border-box;
-  padding: 20px 30px 20px 30px;
-  border-radius:0 0 8px 8px;
-  background-color:#444;
-  border:1px solid #444;
-  box-shadow: inset 0 0 20px rgba(0,0,0,0.4);
-  background-image:url("http://www.photosinbox.com/download/perforated-metal.jpg");
-  color:#FFF;
-  text-shadow:0px 1px 5px #000;
-  font-size:14px;
-}
+
+
 #table {
   width:600px;
   margin:40px auto 20px auto;
@@ -301,7 +289,7 @@ a{
 }
 
 a:hover{
-  background-color:grey; 
+  background-color:#AFBA9D;
   transition: all 0.4s easeInCirc; 
 }
 

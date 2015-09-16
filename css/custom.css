@@ -354,7 +354,7 @@ object {
   background:blanchedalmond;
   text-align: center;
   line-height: 30px;
-  font-size: 16px;
+  font-size: 18px;
   display: block;
   cursor: pointer;
   position: relative;
@@ -384,7 +384,7 @@ object {
 }
 
 #featured {
-  background-image:url("http://payload216.cargocollective.com/1/2/71522/6633696/matthew_gamber_blank_chalkboards_06_905.jpg");
+  background-image:url("http://pittsburghbullets.webstarts.com/uploads/mm-background-metal.jpg");
   color: #fff;
   position: relative;
   font-size: 18pt;
