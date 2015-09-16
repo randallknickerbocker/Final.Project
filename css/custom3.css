@@ -1,7 +1,57 @@
+@import url(http://fonts.googleapis.com/css?family=Pontano+Sans|Stint+Ultra+Expanded);
+
 body{
-      background:black;
+      background-image:url("https://media.timeout.com/images/100433865/617/347/image.jpg");
+      background-repeat:no-repeat;
+      background-size:100%;
     }
-    .gallery{
+    
+h1{
+  color:white;
+  font-family:cursive;
+}
+
+#menu {
+  height: 100px;
+  width: 630px;
+  overflow: hidden;
+  margin: 50px auto;
+  text-align: center;
+}
+
+#menu ul li {
+  float: left;
+  margin: 0 5px;
+  list-style-type: none;
+}
+
+/* Menu Link Styles */
+#menu ul a {
+  display: block;
+  background:black;
+  color: tan;
+  height: 100px;
+  width: 200px;
+  font: lighter 2em/100px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  text-decoration: none;
+
+  transition: all .35s ease-in-out;
+}
+
+/* Secondary Link Styles */
+#menu ul a:nth-of-type(even) {
+  text-shadow: 0 0 6px #fff;
+  background: #333;
+  color: white;
+}
+
+/* Hover Slide */
+#menu ul li:hover :first-child {
+  margin-top: -100px;
+}
+
+
+.gallery{
       position:relative;
       top:100px;
       left:100px;
